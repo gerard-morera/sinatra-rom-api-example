@@ -1,0 +1,16 @@
+change name?
+
+think about in entitity has dfault null object
+- refactor serializers
+
+- save params for databse
+- purchase to singular, 
+USER TO SINGULAR
+
+put redis intead filesistem
+
+ADD CACHE CONTROL EXPIRES
+
+to ask
+
+- Why episodes need to know total number, has to be used?
