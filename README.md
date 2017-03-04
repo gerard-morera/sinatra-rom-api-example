@@ -1,1 +1,3 @@
-To run 'Stream FLix': rackup -p 4561
+To run the server:
+
+`rackup -p 4561`
